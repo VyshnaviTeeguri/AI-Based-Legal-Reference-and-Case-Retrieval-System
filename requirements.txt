@@ -1,0 +1,6 @@
+langchain
+pypdf
+docx2txt
+python-docx
+langchain-community
+unstructured
